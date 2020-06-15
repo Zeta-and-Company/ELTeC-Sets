@@ -1,0 +1,23 @@
+filename	xmlid	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	ref-year	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
+ENG18450_Disraeli	ENG18450	Disraeli, Benjamin	 Sybil, Or the Two Nations	1804	1881	viaf:49233448	"The Project Gutenberg EBook of Sybil, by Benjamin
+      Disraeli"	1845	NA	NA	en	158160	NA	NA	M	long	low	T1
+ENG18481_Dickens	ENG18481	Dickens, Charles	Dombey and Son	1812	1870	viaf:88666393	Dombey and Son	1848	NA	NA	eng	348793	NA	NA	M	long	high	T1
+ENG18551_Trollope	ENG18551	Trollope, Anthony	The Warden	1815	1882	viaf:61683295	"The
+                                                Warden"	1855	NA	NA	eng	71911	NA	NA	M	medium	high	T1
+ENG18610_Eliot	ENG18610	Eliot, George [pseud.]	Silas Marner: The Weaver of Raveloe	1819	1880	viaf:89000553	"Silas Marner: The Weaver of
+            Raveloe"	NA	1861	NA	eng	71043	NA	NA	F	medium	high	T2
+ENG18621_Braddon	ENG18621	Braddon, Mary Elizabeth	Lady Audley's Secret	1835	1915	viaf:66826682	Lady Audley's Secret	1862	NA	NA	eng	148971	NA	NA	F	long	high	T2
+ENG18630_Craik	ENG18630	Craik, Dinah Marie	Mistress and Maid	1826	1887	viaf:46793285	Gutenberg text of Mistress and Maid	NA	1863	NA	eng	109497	NA	NA	F	long	low	T2
+ENG18740_Ouida	ENG18740	Ouida, [pseud.]	Two Little Wooden Shoes: A Sketch	1839	1908	viaf:34490941	The Project Gutenberg eBook, Bebee, by Ouida	NA	1874	NA	eng	54444	NA	NA	F	medium	low	T2
+ENG18800_Disraeli	ENG18800	                                                 	Endymion	1804	1881	viaf:49233448	"Project Gutenberg
+                                                  text of Endymion"	NA	1880	NA	eng	171240	NA	NA	M	long	low	T3
+ENG18890_Nesbit	ENG18890	Nesbit, Edith	The Prophet's Mantle	1858	1924	viaf:7394811	"The Project Gutenberg eBook of The Prophet's Mantle, by Fabian
+      Bland."	1889	NA	NA	eng	97965	NA	NA	F	medium	low	T3
+ENG18900_Doyle	ENG18900	Doyle, Arthur Conan	The Sign of Four	1678	1799	viaf:65283845	The Sign of Four	NA	1890	NA	eng	43111	NA	NA	M	short	high	T3
+ENG18961_Griffiths	ENG18961	Griffiths, Major Arthur George Frederick	The Rome Express	1838	1908	viaf:74223175	"The Project Gutenberg eBook of The Rome Express, by Arthur
+      Griffiths."	NA	1896	NA	eng	35173	NA	NA	M	short	low	T3
+ENG18972_Morris	ENG18972	Morris, William	The water of the wondrous isles	1834	1896	viaf:22146194	The water of the wondrous isles	1897	1914	NA	en	147762	NA	NA	M	long	low	T3
+ENG19150_Buchan	ENG19150	Buchan, John	The Thirty-nine Steps	1875	1940	viaf:66464527	"The Project Gutenberg E-text of The Thirty-nine Steps, by John
+      Buchan"	NA	1915	NA	en	40892	NA	NA	M	short	high	T4
+ENG19200_Lawrence	ENG19200	Lawrence, David Herbert	Women in love	1885	1930	viaf:95150359	"The Project Gutenberg EBook of Women in Love, by D. H.
+      Lawrence "	1920	1921	NA	en	180153	NA	NA	M	long	high	T4
