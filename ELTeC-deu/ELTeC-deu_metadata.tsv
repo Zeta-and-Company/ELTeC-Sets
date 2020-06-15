@@ -1,0 +1,101 @@
+filename	xmlid	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	ref-year	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
+DEU001	DEU001	Willkomm, Ernst Adolf	Weisse Sclaven oder die Leiden des Volkes 	1810	1886	http://d-nb.info/gnd/11739467X	textgrid:x9j6.0	1845	1845	NA	de	322371	NA	NA	M	long	NA	T1
+DEU002	DEU002	Auerbach, Berthold	Der Lehnhold 	1812	1882	http://d-nb.info/gnd/11865103X	textgrid:k8gc.0	NA	1863	NA	de	66067	NA	NA	M	medium	NA	T1
+DEU003	DEU003	Ruppius, Otto	Der Pedlar 	1819	1864	http://d-nb.info/gnd/116708859	textgrid:tndt.0	1859	1910	NA	de	89800	NA	NA	M	medium	NA	T1
+DEU004	DEU004	Otto, Louise	Nürnberg. Zweiter Band 	1819	1895	http://d-nb.info/gnd/118590901	textgrid:swh8.0	NA	NA	NA	de	56702	NA	NA	F	medium	NA	T1
+DEU005	DEU005	Kurz, Hermann	Der Sonnenwirt 	1813	1873	http://d-nb.info/gnd/118778277	textgrid:rdgh.0	1855	1980	NA	de	216063	NA	NA	M	long	NA	T1
+DEU006	DEU006	Weerth, Georg	Fragment eines Romans 	1822	1856	http://d-nb.info/gnd/117208612	textgrid:x3xk.0	1957	1956	NA	de	60551	NA	NA	M	medium	NA	T1
+DEU007	DEU007	Stifter, Adalbert	Die Mappe meines Urgroßvaters 	1805	1868	http://d-nb.info/gnd/118618156	textgrid:vs29.0	1841	1959	NA	de	82220	NA	NA	M	medium	NA	T1
+DEU008	DEU008	Auerbach, Berthold	Der Lautenbacher 	1812	1882	http://d-nb.info/gnd/11865103X	textgrid:k8fq.0	NA	1863	NA	de	31603	NA	NA	M	short	NA	T1
+DEU009	DEU009	Ruppius, Otto	Das Vermächtnis des Pedlars 	1819	1864	http://d-nb.info/gnd/116708859	textgrid:tndq.0	1859	NA	NA	de	97300	NA	NA	M	medium	NA	T1
+DEU010	DEU010	Aston, Louise	Lydia 	1814	1871	http://d-nb.info/gnd/118650769	textgrid:k8b1.0	1848	1848	NA	de	61819	NA	NA	F	medium	NA	T1
+DEU012	DEU012	Aston, Louise	Aus dem Leben einer Frau 	1814	1871	http://d-nb.info/gnd/118650769	textgrid:k8ck.0	1847	1847	NA	de	27975	NA	NA	F	short	NA	T1
+DEU013	DEU013	Auerbach, Berthold	Barfüßele 	1812	1882	http://d-nb.info/gnd/11865103X	textgrid:k8fk.0	1856	1857	NA	de	76008	NA	NA	M	medium	NA	T1
+DEU014	DEU014	Tieck, Ludwig	Vittoria Accorombona 	1773	1853	http://d-nb.info/gnd/12989432X	textgrid:wczc.0	1840	1963	NA	de	123077	NA	NA	M	long	NA	T1
+DEU015	DEU015	Arnim, Bettina von	Die Günderode 	1785	1859	http://d-nb.info/gnd/118504185	textgrid:k2k1.0	1840	1959	NA	de	176011	NA	NA	F	long	NA	T1
+DEU016	DEU016	Gerstäcker, Friedrich	Die Regulatoren in Arkansas. Aus dem Waldleben Amerikas 	1816	1872	http://d-nb.info/gnd/118538810	textgrid:ndn4.0	1846	NA	NA	de	183061	NA	NA	M	long	NA	T1
+DEU017	DEU017	Stifter, Adalbert	Die Narrenburg 	1805	1868	http://d-nb.info/gnd/118618156	textgrid:vs2p.0	1843	1959	NA	de	41879	NA	NA	M	short	NA	T1
+DEU018	DEU018	Schopenhauer, Adele	Anna 	1797	1849	http://d-nb.info/gnd/11880510X	textgrid:vbhs.0	1845	1845	NA	de	105286	NA	NA	F	long	NA	T1
+DEU019	DEU019	Stifter, Adalbert	Zwei Schwestern 	1805	1868	http://d-nb.info/gnd/118618156	textgrid:vs33.0	1846	1959	NA	de	58315	NA	NA	M	medium	NA	T1
+DEU020	DEU020	              	Sibylle 	1805	1880	http://d-nb.info/gnd/118544918	textgrid:phvd.0	1846	1846	NA	de	131733	NA	NA	F	long	NA	T1
+DEU021	DEU021	Lewald, Fanny	Jenny 	1811	1889	http://d-nb.info/gnd/118572393	textgrid:rm5b.0	1843	1872	NA	de	111473	NA	NA	F	long	NA	T1
+DEU022	DEU022	Arnim, Bettina von	Clemens Brentanos Frühlingskranz 	1785	1859	http://d-nb.info/gnd/118572393	textgrid:k2k7.0	1844	1959	NA	de	108645	NA	NA	F	long	NA	T1
+DEU023	DEU023	Stifter, Adalbert	Feldblumen 	1805	1868	http://d-nb.info/gnd/118618156	textgrid:vs1h.0	1841	1959	NA	de	43934	NA	NA	M	short	NA	T1
+DEU024	DEU024	Gutzkow, Karl	Der Zauberer von Rom 	1811	1878	http://d-nb.info/gnd/118543830	textgrid:p5bm.0	1858–1861	1858–1861	NA	de	894081	NA	NA	M	long	NA	T1
+DEU025	DEU025	Kürnberger, Ferdinand	Der Amerika-Müde 	1823	1879	http://d-nb.info/gnd/118567764	urn:nbn:de:kobv:b4-200905197133	NA	1855	NA	de	81837	NA	NA	M	medium	NA	T1
+DEU026	DEU026	Vischer, Friedrich Theodor	Auch Einer 2 	1807	1887	http://d-nb.info/gnd/11862721X	urn:nbn:de:kobv:b4-200905196655	NA	1879	NA	de	96548	NA	NA	M	medium	NA	T2
+DEU027	DEU027	              	Bozena 	1830	1916	http://d-nb.info/gnd/118528661	textgrid:mktj.0	1876	1956–1958	NA	de	76679	NA	NA	F	medium	NA	T2
+DEU028	DEU028	François, Louise von	Die letzte Reckenburgerin 	1817	1893	http://d-nb.info/gnd/118692577	textgrid:n24t.0	NA	1918	NA	de	108606	NA	NA	F	long	NA	T2
+DEU029	DEU029	Raabe, Wilhelm	Alte Nester 	1831	1910	http://d-nb.info/gnd/118597442	textgrid:t90t.0	"Juli/August
+               1879"	1964–1966	NA	de	97670	NA	NA	M	medium	NA	T2
+DEU031	DEU031	Raabe, Wilhelm	Der Schüdderump 	1831	1910	http://d-nb.info/gnd/118692577	textgrid:t90p.0	Oktober 1969 – März 1870	1964–1966	NA	de	135524	NA	NA	M	long	NA	T2
+DEU032	DEU032	              	Jürg Jenatsch 	1825	1898	http://d-nb.info/gnd/118581775	textgrid:sd2m.0	1874	1968	NA	de	83873	NA	NA	M	medium	NA	T2
+DEU033	DEU033	François, Louise von	Die Geschichte meines Urgroßvaters 	1817	1893	http://d-nb.info/gnd/118692577	textgrid:n24j.0	1855	1918	NA	de	37948	NA	NA	F	short	NA	T2
+DEU034	DEU034	Vischer, Friedrich Theodor	Auch Einer 1 	1807	1887	http://d-nb.info/gnd/11862721X	urn:nbn:de:kobv:b4-200905196648	NA	1879	NA	de	98067	NA	NA	M	medium	NA	T2
+DEU035	DEU035	Fontane, Theodor	Vor dem Sturm 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n11c.0	Januar- September 1878	1973	NA	de	269471	NA	NA	M	long	NA	T2
+DEU036	DEU036	Keller, Gottfried	Der grüne Heinrich2 [Zweite Fassung] 	1819	1890	http://d-nb.info/gnd/11856109X	textgrid:qt4g.0	1879/80	1958–1961	NA	de	287409	NA	NA	M	long	NA	T2
+DEU037	DEU037	Marlitt, Eugenie	Das Heideprinzeßchen 	1825	1887	http://d-nb.info/gnd/1014122880	textgrid:s8dz.0	1871	1900	NA	de	148356	NA	NA	F	long	NA	T2
+DEU038	DEU038	Raabe, Wilhelm	Der Hungerpastor 	1831	1910	http://d-nb.info/gnd/118692577	textgrid:t91r.0	"Nov. 1863 – März
+                  1864"	1964–1966	NA	de	166341	NA	NA	M	long	NA	T2
+DEU039	DEU039	Spielhagen, Friedrich	Problematische Naturen. Erste Abtheilung 	1823	1911	http://d-nb.info/gnd/118616196	textgrid:vqkr.0	1861	1874	NA	de	225971	NA	NA	M	long	NA	T2
+DEU040	DEU040	Marlitt, Eugenie	Goldelse 	1825	1887	http://d-nb.info/gnd/1014122880	textgrid:s8f0.0	1866	1900	NA	de	118440	NA	NA	F	long	NA	T2
+DEU041	DEU041	Marlitt, Eugenie	Das Geheimnis der alten Mamsell 	1825	1887	http://d-nb.info/gnd/1014122880	textgrid:s8ds.0	1868	1900	NA	de	105854	NA	NA	F	long	NA	T2
+DEU042	DEU042	Möllhausen, Balduin	Die Mandanenwaise 	1825	1905	http://d-nb.info/gnd/118784412	textgrid:sf4q.0	1865	1865	NA	de	223715	NA	NA	M	long	NA	T2
+DEU043	DEU043	Spielhagen, Friedrich	Hammer und Amboß 	1823	1911	http://d-nb.info/gnd/118616196	textgrid:vqkq.0	1869	1874	NA	de	324738	NA	NA	M	long	NA	T2
+DEU044	DEU044	Dahn, Felix	Kampf um Rom 	1834	1912	http://d-nb.info/gnd/118523392	textgrid:m531.0	1876	NA	NA	de	265086	NA	NA	M	long	NA	T2
+DEU045	DEU045	Stifter, Adalbert	Witiko 	1805	1868	http://d-nb.info/gnd/118618156	textgrid:vs2k.0	1855	1959	NA	de	337846	NA	NA	M	long	NA	T2
+DEU046	DEU046	Fontane, Theodor	Grete Minde 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n1mm.0	1879	1973	NA	de	39821	NA	NA	M	short	NA	T2
+DEU047	DEU047	François, Louise von	Judith die Kluswirtin 	1817	1893	http://d-nb.info/gnd/118692577	textgrid:n24f.0	1862	1918	NA	de	54773	NA	NA	F	medium	NA	T2
+DEU048	DEU048	Freytag, Gustav	Die Ahnen 	1816	1895	http://d-nb.info/gnd/118535455	textgrid:n2kn.0	1872–1880	1953	NA	de	715658	NA	NA	M	long	NA	T2
+DEU049	DEU049	Raabe, Wilhelm	Die Leute aus dem Walde, ihre Sterne, Wege und Schicksale 	1831	1910	http://d-nb.info/gnd/118692577	textgrid:t91c.0	NA	1964–1966.	NA	de	149073	NA	NA	M	long	NA	T2
+DEU050	DEU050	Raabe, Wilhelm	Abu Telfan oder Die Heimkehr vom Mondgebirge 	1831	1910	http://d-nb.info/gnd/118692577	textgrid:t923.0	1867	1964–1966	NA	de	136330	NA	NA	M	long	NA	T2
+DEU051	DEU051	Fontane, Theodor	Unterm Birnbaum 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n1vv.0	August-September 1885	1973	NA	de	40316	NA	NA	M	short	NA	T3
+DEU052	DEU052	Spyri, Johanna	Heidis Lehr- und Wanderjahre 	1827	1901	http://d-nb.info/gnd/118616455	textgrid:vqn2.0	1880	1978	NA	de	61406	NA	NA	F	medium	NA	T3
+DEU053	DEU053	Fontane, Theodor	Graf Petöfy 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n1zq.0	Juli-August 1884	1973	NA	de	71428	NA	NA	M	medium	NA	T3
+DEU054	DEU054	May, Karl	Am Jenseits 	1842	1912	http://d-nb.info/gnd/118818651	textgrid:sb4n.0	1898	1912	NA	de	186082	NA	NA	M	long	NA	T3
+DEU055	DEU055	Bahr, Hermann	Die gute Schule 	1836	1934	http://d-nb.info/gnd/118505955	textgrid:kcj8.0	1890	1898	NA	de	64346	NA	NA	M	medium	NA	T3
+DEU056	DEU056	Conradi, Hermann	Adam Mensch 	1862	1890	http://d-nb.info/gnd/118669923	textgrid:m060.0	1889	1889	NA	de	117914	NA	NA	M	long	NA	T3
+DEU057	DEU057	Dohm, Hedwig	Sibilla Dalmar 	1831	1919	http://d-nb.info/gnd/11852643X	textgrid:mh3s.0	1896	1897	NA	de	97263	NA	NA	F	medium	NA	T3
+DEU058	DEU058	              	Lotti, die Uhrmacherin 	1830	1916	http://d-nb.info/gnd/118528661	textgrid:mks5.0	1880	1956–1958	NA	de	41591	NA	NA	F	short	NA	T3
+DEU059	DEU059	Fontane, Theodor	Irrungen, Wirrungen 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n121.0	Juli-August 1887	1973	NA	de	63334	NA	NA	M	medium	NA	T3
+DEU060	DEU060	Janitschek, Maria	Die Amazonenschlacht 	1859	1927	http://d-nb.info/gnd/117078719	textgrid:qmnz.0	1897	1897	NA	de	21931	NA	NA	F	short	NA	T3
+DEU061	DEU061	Bleibtreu, Karl	Größenwahn	1859	1928	http://d-nb.info/gnd/118663909	textgrid:kmq8.0	1888	1888	NA	de	294270	NA	NA	M	long	NA	T3
+DEU062	DEU062	Polenz, Wilhelm von	Der Büttnerbauer 	1861	1903	http://d-nb.info/gnd/118803336	textgrid:t4qk.0	1895	NA	NA	de	140675	NA	NA	M	long	NA	T3
+DEU063	DEU063	Dohm, Hedwig	Wie Frauen werden 	1831	1919	http://d-nb.info/gnd/11852643X	textgrid:mh34.0	1894	1894	NA	de	38398	NA	NA	F	short	NA	T3
+DEU064	DEU064	Christen, Ada	Jungfer Mutter 	1839	1901	http://d-nb.info/gnd/1014783895	textgrid:kx8q.0	1892	1964	NA	de	47731	NA	NA	F	short	NA	T3
+DEU065	DEU065	Spielhagen, Friedrich	Zum Zeitvertreib 	1823	1911	http://d-nb.info/gnd/118616196	textgrid:vqkz.0	1897	1897	NA	de	67471	NA	NA	M	medium	NA	T3
+DEU066	DEU066	Fontane, Theodor	Der Stechlin 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n143.0	1897/98	1973	NA	de	154063	NA	NA	M	long	NA	T3
+DEU067	DEU067	Ganghofer, Ludwig	Schloß Hubertus 	1855	1920	http://d-nb.info/gnd/118537490	textgrid:n3cb.0	1895	1917	NA	de	198887	NA	NA	M	long	NA	T3
+DEU068	DEU068	Spitteler, Carl	Conrad 	1845	1925	http://d-nb.info/gnd/118616277	textgrid:vqmn.0	1898	NA	NA	de	52176	NA	NA	M	medium	NA	T3
+DEU069	DEU069	Kretzer, Max	Meister Timpe 	1854	1941	http://d-nb.info/gnd/118715917	urn:nbn:de:kobv:b4-200905193391	NA	1888	NA	de	92656	NA	NA	M	medium	NA	T3
+DEU070	DEU070	Fontane, Theodor	Schach von Wuthenow 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n1dg.0	1882	1973	NA	de	50542	NA	NA	M	medium	NA	T3
+DEU071	DEU071	Fontane, Theodor	Cécile 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n1s9.0	1886	1973	NA	de	67507	NA	NA	M	medium	NA	T3
+DEU072	DEU072	Raabe, Wilhelm	Im alten Eisen 	1831	1910	http://d-nb.info/gnd/118692577	textgrid:t911.0	1887	NA	NA	de	64386	NA	NA	M	medium	NA	T3
+DEU073	DEU073	Dohm, Hedwig	Schicksale einer Seele 	1831	1919	http://d-nb.info/gnd/11852643X	textgrid:mh36.0	1899	1899	NA	de	104561	NA	NA	F	long	NA	T3
+DEU074	DEU074	Boy-Ed, Ida	Fanny Förster 	1852	1928	http://d-nb.info/gnd/118662473	textgrid:kpzg.0	1889	1889	NA	de	84303	NA	NA	F	medium	NA	T3
+DEU075	DEU075	Janitschek, Maria	Ninive 	1859	1927	http://d-nb.info/gnd/117078719	textgrid:qmpc.0	1896	1896	NA	de	56550	NA	NA	F	medium	NA	T3
+DEU076	DEU076	Wassermann, Jakob	Caspar Hauser 	1873	1934	http://d-nb.info/gnd/1014784077	textgrid:x26t.0	Oktober 1907	NA	NA	de	156760	NA	NA	M	long	NA	T4
+DEU077	DEU077	              	Ellen Olestjerne 	1871	1918	http://d-nb.info/gnd/118600044	textgrid:tbbm.0	1903	1980	NA	de	73402	NA	NA	F	medium	NA	T4
+DEU078	DEU078	Essig, Hermann	Der Taifun 	1878	1918	http://d-nb.info/gnd/118531212	textgrid:mvr8.0	1919	1919	NA	de	118751	NA	NA	M	long	NA	T4
+DEU079	DEU079	Rilke, Rainer Maria	Die Aufzeichnungen des Malte Laurids Brigge 	1875	1926	http://d-nb.info/gnd/118601024	textgrid:tbvd.0	1910	NA	NA	de	70411	NA	NA	M	medium	NA	T4
+DEU080	DEU080	Keyserling, Eduard von	Dumala 	1855	1918	http://d-nb.info/gnd/118561812	textgrid:qx5c.0	1907	1922	NA	de	37961	NA	NA	M	short	NA	T4
+DEU081	DEU081	May, Karl	Und Friede auf Erden! 	1842	1912	http://d-nb.info/gnd/118818651	textgrid:sbhs.0	NA	1907	NA	de	210053	NA	NA	M	long	NA	T4
+DEU082	DEU082	Braun, Lily	Lebenssucher 	1865	1916	http://d-nb.info/gnd/11867353X	textgrid:kq64.0	1915	1922	NA	de	142219	NA	NA	F	long	NA	T4
+DEU083	DEU083	Sack, Gustav	Paralyse 	1885	1916	http://d-nb.info/gnd/118750607	textgrid:tqbp.0	1913/1914	NA	NA	de	23323	NA	NA	M	short	NA	T4
+DEU084	DEU084	May, Karl	Ardistan und Dschinnistan II 	1842	1912	http://d-nb.info/gnd/118818651	textgrid:sb5d.0	1909	1909	NA	de	205246	NA	NA	M	long	NA	T4
+DEU085	DEU085	Ganghofer, Ludwig	Der Ochsenkrieg 	1855	1920	http://d-nb.info/gnd/118537490	textgrid:n3cg.0	1914	1959	NA	de	212235	NA	NA	M	long	NA	T4
+DEU086	DEU086	              	Himmlische und irdische Liebe 	1861	1903	http://d-nb.info/gnd/1014784034	textgrid:sdgb.0	1905	1922	NA	de	45345	NA	NA	F	short	NA	T4
+DEU087	DEU087	Heyking, Elisabeth von	Briefe, die ihn nicht erreichten 	1861	1925	http://d-nb.info/gnd/104359080	textgrid:q366.0	1902	1903	NA	de	56322	NA	NA	F	medium	NA	T4
+DEU088	DEU088	Fontane, Theodor	Mathilde Möhring 	1819	1898	http://d-nb.info/gnd/118534262	textgrid:n1zz.0	1906	1973	NA	de	40323	NA	NA	M	short	NA	T4
+DEU089	DEU089	Wille, Bruno	Die Abendburg 	1860	1928	http://d-nb.info/gnd/11863318X	textgrid:x96c.0	1909	1909	NA	de	178800	NA	NA	M	long	NA	T4
+DEU090	DEU090	              	Von Paul zu Pedro 	1871	1918	http://d-nb.info/gnd/118600044	textgrid:tb9w.0	1912	1976	NA	de	25015	NA	NA	F	short	NA	T4
+DEU091	DEU091	Schnitzler, Arthur	Casanovas Heimfahrt 	1862	1931	http://d-nb.info/gnd/118609807	textgrid:v3t9.0	1918	1961	NA	de	43407	NA	NA	M	short	NA	T4
+DEU092	DEU092	Sudermann, Hermann	Jons und Erdme 	1857	1928	http://d-nb.info/gnd/118619853	textgrid:w40b.0	NA	1923	NA	de	48607	NA	NA	M	short	NA	T4
+DEU093	DEU093	Christ, Lena	Madam Bäurin 	1881	1920	http://d-nb.info/gnd/118520555	textgrid:kxdx.0	1920	1972	NA	de	42418	NA	NA	F	short	NA	T4
+DEU094	DEU094	Schnitzler, Arthur	Der Weg ins Freie 	1862	1931	http://d-nb.info/gnd/118609807	textgrid:v3s8.0	Januar–Juni 1908	1961	NA	de	144932	NA	NA	M	long	NA	T4
+DEU095	DEU095	Ball, Hugo	Flammetti 	1886	1927	http://d-nb.info/gnd/118506234	textgrid:12671.0	1918	1975	NA	de	58233	NA	NA	M	medium	NA	T4
+DEU096	DEU096	Meyrink, Gustav	Der Golem 	1868	1932	http://d-nb.info/gnd/118582046	textgrid:sdcd.0	1915	1917	NA	de	90790	NA	NA	M	medium	NA	T4
+DEU097	DEU097	Keyserling, Eduard von	Wellen 	1855	1918	http://d-nb.info/gnd/118561812	textgrid:qx55.0	1911	1922	NA	de	54745	NA	NA	M	medium	NA	T4
+DEU098	DEU098	              	Herrn Dames Aufzeichnungen 	1871	1918	http://d-nb.info/gnd/118600044	textgrid:tbbk.0	1913	1976	NA	de	41778	NA	NA	F	short	NA	T4
+DEU099	DEU099	Christ, Lena	Mathias Bichler 	1881	1920	http://d-nb.info/gnd/118520555	textgrid:kxft.0	1914	1972	NA	de	81921	NA	NA	F	medium	NA	T4
+DEU100	DEU100	              	Agave 	1830	1916	http://d-nb.info/gnd/118528661	textgrid:mks9.0	NA	NA	NA	de	51704	NA	NA	F	medium	NA	T4
