@@ -1,0 +1,104 @@
+filename,xmlid,au-name,title,au-birth,au-death,au-ids,digitalSource,firsted-yr,ref-year,title-ids,language,numwords,subgenre,narr-per,au-gender,sizeCat,reprintCount,time-slot
+HU00011,HU00011,Vachott Sándorné,Derű és ború : ELTeC kiadás,1828,1896,NA,Derű és ború,1854,1854,NA,hu,65112,NA,NA,F,medium,low,T1
+HU00012,HU00012,Vachott Sándorné,Irma hagyományai : ELTeC kiadás,1828,1896,NA,Irma hagyományai,1859,1859,NA,hu,47321,NA,NA,F,short,low,T1
+HU00600,HU00600,Babits Mihály,A gólyakalifa,1883,1941,viaf:49221125,A gólyakalifa,1916,1996,NA,hu,38365,NA,NA,M,short,high,T4
+HU00628,HU00628,Bródy Sándor,Az ezüst kecske,1863,1924,viaf:49267921,Az ezüst kecske,1898,1969,NA,hu,47696,NA,NA,M,short,high,T3
+HU00642,HU00642,Eötvös József,A falu jegyzője,1813,1871,viaf:64044769,A falu jegyzője,1845,1971,NA,hu,206761,NA,NA,M,long,high,T1
+HU00662,HU00662,Gárdonyi Géza,A láthatatlan ember : Történelmi regény,1863,1922,viaf:24643507,A láthatatlan ember : Történelmi regény,1901,1967,NA,hu,76646,NA,NA,M,medium,high,T4
+HU00666,HU00666,Gyulai Pál,Egy régi udvarház utolsó gazdája : Regény,1826,1909,viaf:59092543,Egy régi udvarház utolsó gazdája : Regény,1857,1995,NA,hu,22682,NA,NA,M,short,high,T1
+HU00719,HU00719,Karinthy Frigyes,Tanár úr kérem,1887,1938,viaf:46762994,Tanár úr kérem,1916,NA,NA,hu,17484,NA,NA,M,short,high,T4
+HU00726,HU00726,Kazinczy Ferenc,Bácsmegyeinek gyötrelmei,1759,1831,viaf:9867747,Bácsmegyeinek gyötrelmei,1878,1878,NA,hu,20772,NA,NA,M,short,low,T2
+HU00730,HU00730,Kemény Zsigmond,Özvegy és leánya,1814,1875,viaf:54141095,Özvegy és leánya,1855,2000,NA,hu,88579,NA,NA,M,medium,high,T1
+HU00731,HU00731,Kemény Zsigmond,Szerelem és hiúság,1814,1875,viaf:54141095,Szerelem és hiúság,1876,1995,NA,hu,22783,NA,NA,M,short,high,T2
+HU00763,HU00763,Krúdy Gyula,Az útitárs,1878,1933,viaf:22810,Az útitárs,1919,1959,NA,hu,15800,NA,NA,M,short,low,T4
+HU00879,HU00879,Mikes Kelemen,Törökországi levelek : Válogatás,1690,1761,viaf:7410168 ,Törökországi levelek : Válogatás,1880,1995,NA,hu,11346,NA,NA,M,short,high,T3
+HU00898,HU00898,Mikszáth Kálmán,A beszélő köntös,1847,1910,viaf:46774986,A beszélő köntös,1889,1998,NA,hu,23646,NA,NA,M,short,high,T3
+HU00949,HU00949,Mikszáth Kálmán,"A Noszty fiú esete Tóth Marival
+            ",1847,1910,viaf:46774986,A Noszty fiú esete Tóth Marival,1908,1960,NA,hu,133267,NA,NA,M,long,high,T4
+HU00954,HU00954, Mikszáth Kálmán,Szent Péter esernyője,1847,1910,viaf:46774986,Szent Péter esernyője,1895,1957,NA,hu,53010,NA,NA,M,medium,high,T3
+HU00977,HU00977,Móra Ferenc,Rab ember fiai,1879,1934,viaf:73857588,Rab ember fiai,1910,1974,NA,hu,21678,NA,NA,M,short,high,T4
+HU01009,HU01009,Petőfi Sándor,A hóhér kötele,1823,1849,viaf:59087691,A hóhér kötele,1846,1993,NA,hu,25762,NA,NA,M,short,high,T1
+HU01115,HU01115,Vas Gereben,Egy alispán : Magyar korrajz,1823,1868,viaf:36952007,Egy alispán : Magyar korrajz,1858,1886,NA,hu,90713,NA,NA,M,medium,low,T1
+HU01116,HU01116,Vas Gereben,"Nagy idők, nagy emberek",1823,1868,viaf:36952007,"Nagy idők, nagy emberek",1856,1886,NA,hu,109239,NA,NA,M,long,low,T1
+HU02028,HU02028,Kaffka Margit,Színek és évek,1880,1918,viaf:19708135,Színek és évek,1911,1999,NA,hu,62913,NA,NA,F,medium,high,T4
+HU02143,HU02143,Vas Gereben,A pörös atyafiak : Regény,1823,1868,viaf:36952007,A pörös atyafiak : Regény,1860,1891,NA,hu,70428,NA,NA,M,medium,low,T2
+HU02204,HU02204,Jókai Mór,A kétszarvú ember,1825,1904,viaf:59084200,A kétszarvú ember,1852,1973,NA,hu,32893,NA,NA,M,short,high,T1
+HU03130,HU03130,Eötvös József,A karthauzi,1813,1871,viaf:64044769,A karthauzi,1842,1911,NA,hu,127812,NA,NA,M,long,high,T1
+HU04774,HU04774,Eötvös József,Magyarország 1514-ben : Regény,1813,1871,viaf:64044769,Magyarország 1514-ben : Regény,1847,1972,NA,hu,201018,NA,NA,M,long,high,T1
+HU05060,HU05060,Móricz Zsigmond,Sárarany,1879,1942,viaf:22179627,Sárarany,1911,1975,NA,hu,50806,NA,NA,M,medium,high,T4
+HU05286,HU05286,Ambrus Zoltán,Midas király,1861,1932,viaf:49239294,Midas király,1906,1967,NA,hu,143418,NA,NA,M,long,high,T4
+HU05572,HU05572,Jókai Mór,Egy magyar nábob : 1853-54,1825,1904,viaf:59084200,Egy magyar nábob : 1853-54,1854,1962,NA,hu,139820,NA,NA,M,long,high,T1
+HU05573,HU05573,Jókai Mór,És mégis mozog a föld,1825,1904,viaf:59084200,És mégis mozog a föld,1873,1965,NA,hu,285818,NA,NA,M,long,high,T2
+HU05620,HU05620,Kemény Zsigmond,Zord idő,1814,1875,viaf:54141095,Zord idő,1862,1936,NA,hu,121526,NA,NA,M,long,high,T2
+HU05964,HU05964,Cholnoky László,Piroska,1879,1929,viaf:na,Piroska,1919,2000,NA,hu,166120,NA,NA,M,long,low,T4
+HU06784,HU06784,Rákosi Viktor,Korhadt fakeresztek : képek a magyar szabadságról  ,1860,1923,viaf:58030320,Korhadt fakeresztek,1899,1989,NA,hu,34574,NA,NA,M,short,high,T3
+HU06982,HU06982,Gárdonyi Géza,A lámpás : Regény,1863,1922,viaf:24643507,A lámpás : Regény,1895,1957,NA,hu,14590,NA,NA,M,short,high,T3
+HU07119,HU07119,Cholnoky Viktor,Kaleidoszkop,1868,1912,viaf:na,Kaleidoszkop,1913,1914,NA,hu,48819,NA,NA,M,short,low,T4
+HU07551,HU07551,Nagy Ignác,Magyar titkok : Regény,1810,1854,viaf:121393539,Magyar titkok : Regény,1845,1908,NA,hu,199822,NA,NA,M,long,low,T1
+HU07552,HU07552,Kuthy Lajos,Hazai rejtelmek : Regény,1813,1864,viaf:29522559,Hazai rejtelmek : Regény,1846,1906,NA,hu,192692,NA,NA,M,long,low,T1
+HU07629,HU07629,Podmaniczky Frigyes,Az alföldi vadászok tanyája : Regény,1824,1907,viaf:25795116,Az alföldi vadászok tanyája : Regény,1854,1906,NA,hu,52303,NA,NA,M,medium,low,T1
+HU07693,HU07693,Degré Alajos,A száműzött leánya : Regény,1819,1896,viaf:25034532,A száműzött leánya : Regény,1861,1906,NA,hu,54332,NA,NA,M,medium,low,T2
+HU07694,HU07694,Toldy István,Anatole :  Regény ,1844,1879,viaf:56032353,Anatole :  Regény ,1872,1906,NA,hu,47843,NA,NA,M,short,low,T2
+HU07703,HU07703,Vadnai Károly,A kis tündér : Regény,1832,1902,viaf:120125275,A kis tündér : Regény,1860,1904,NA,hu,60854,NA,NA,M,medium,low,T2
+HU07718,HU07718,Beöthy Zsolt,Kálozdy Béla : Regény,1791,1860,viaf:73093732,Kálozdy Béla : Regény,1875,1908,NA,hu,149978,NA,NA,M,long,low,T2
+HU07729,HU07729,Wohl Stefánia,Aranyfüst : ELTeC kiadás,1848,1889,viaf:121454816,Aranyfüst,1887,1907,NA,hu,111763,NA,NA,F,long,low,T3
+HU08163,HU08163,Fáy András,"Jávor orvos és szolgája, Bakator Ambrus: Szeszélyes regény",1786,1864,viaf:17278550,"Jávor orvos és szolgája, Bakator Ambrus: Szeszélyes regény",1855,NA,NA,hu,52587,NA,NA,M,medium,low,T1
+HU08358,HU08358, Benedek Elek,Édes anyaföldem! :  Egy nép s egy ember története ,1859,1929,viaf:120201932,Édes anyaföldem! :  Egy nép s egy ember története ,1920,NA,NA,hu,151256,NA,NA,M,long,high,T4
+HU09105,HU09105,Török Gyula,A zöldköves gyűrű : Regény,1888,1918,viaf:72194515,A zöldköves gyűrű : Regény,1918,1973,NA,hu,84038,NA,NA,M,medium,high,T4
+HU10230,HU10230,Jósika Miklós,II. Rákóczi Ferencz : 1852,1794,1865,viaf:1972047,II. Rákóczi Ferencz : 1852,1852,1909,NA,hu,238192,NA,NA,M,long,unspecified,T1
+HU10428,HU10428,Szomaházy István,A csipkeverő leány : Regény,1864,1927,viaf:73382097,A csipkeverő leány : Regény,1920,1921,NA,hu,30933,NA,NA,M,short,low,T4
+HU11129,HU11129,Andor Mária,Bébike memoárjai : Egy kis kutya önéletrajza,1890,1960,NA,Bébike memoárjai : Egy kis kutya önéletrajza,1918,1918,NA,hu,47151,NA,NA,F,short,low,T4
+HU11795,HU11795,               Ágai Adolf,Rontó Pál viselt dolgai vizen és szárazon : ELTeC kiadás,1836,1916,viaf:19711540,Rontó Pál viselt dolgai vizen és szárazon,1912,NA,NA,hu,41719,NA,NA,M,short,low,T4
+HU11968,HU11968,Donászy Ferenc,"Őserdőkön, tengereken : ELTeC kiadás",1858,1923,viaf:1657716 ,"Őserdőkön, tengereken",1894,1907,NA,hu,125772,NA,NA,M,long,low,T3
+HU12028,HU12028,Abonyi Árpád,A nagyasszony : Regény,1865,1918,viaf:39125767,A nagyasszony : Regény,1892,1892,NA,hu,23378,NA,NA,M,short,low,T3
+HU12359,HU12359,Zigány Árpád,A parasztkirály : Történeti regény a XVI. századból,1865,1936,viaf:70701164,A parasztkirály : Történeti regény a XVI. századból,1902,1902-1903,NA,hu,62504,NA,NA,M,medium,low,T4
+HU12750,HU12750,Bársony István,A rab király szabadon : Fantasztikus állatregény,1863,1924,viaf:84079235,A rab király szabadon : Fantasztikus állatregény,1903,1921,NA,hu,30756,NA,NA,M,short,low,T4
+HU13316,HU13316,Szemere György,"A Kont-eset :  Fantasztikus regény a XXI. századból 
+            ",1866,1952,viaf:121485073,A Kont-eset :  Fantasztikus regény a XXI. századból ,1911,NA,NA,hu,52170,NA,NA,M,medium,low,T4
+HU13387,HU13387, Gárdonyi Géza,Egri csillagok: Bornemissza Gergely élete,1863,1922,viaf:24643507,Egri csillagok: Bornemissza Gergely élete,1901,1909,NA,hu,138886,NA,NA,M,long,high,T4
+HU13445,HU13445,Beöthy László,Két leány és egy legény : Regény,1826,1857,viaf:121409411,Két leány és egy legény : Regény,1895,1905,NA,hu,29473,NA,NA,M,short,low,T3
+HU13462,HU13462,Kövér Ilma,Két világ közt : Regény,1862,1928,viaf:121505002,Két világ közt : Regény,1897,NA,NA,hu,36087,NA,NA,F,short,low,T3
+HU13606,HU13606,Werner Gyula,Forgách Simon : Rákóczi korabeli regény,1862,1926,viaf:167135256,Forgách Simon : Rákóczi korabeli regény,1907,1908,NA,hu,121674,NA,NA,M,long,low,T4
+HU13802,HU13802,Abonyi Lajos,Magduska öröksége : Regény,1833,1898,viaf:68652301,Magduska öröksége : Regény,1886,1903,NA,hu,52809,NA,NA,M,medium,low,T3
+HU14125,HU14125,Csiky Gergely,Sisyphus munkája : Regény,1842,1891,viaf:54198282,Sisyphus munkája : Regény,1892,1892,NA,hu,26684,NA,NA,M,short,low,T3
+HU14197,HU14197,"Szathmáry Károly, P.",A legszebb herczegnő : Történeti regény Mária Terézia korából,1831,1891,viaf:57487056,A legszebb herczegnő : Történeti regény Mária Terézia korából,1888,1888,NA,hu,58893,NA,NA,M,medium,low,T3
+HU14261,HU14261,Pekár Gyula,Lavina :  Regény ,1867,1937,viaf:2057726,Lavina :  Regény ,1895,NA,NA,hu,23916,NA,NA,M,short,low,T3
+HU14315,HU14315,Kupa Árpád,Képzelt királyok : Történeti regény,1858,1916,viaf:162003783,Képzelt királyok : Történeti regény,1898,1898,NA,hu,66127,NA,NA,M,medium,low,T3
+HU14548,HU14548,Ábrányi Kornél,Régi és uj nemesek : Eredeti regény,1849,1913,viaf:57808720,Régi és uj nemesek : Eredeti regény,1881,1896,NA,hu,58746,NA,NA,M,medium,low,T3
+HU14564,HU14564, Herman Ottóné,Kisvárosiak: Regény,1856,1916,viaf:53161612,Kisvárosiak: Regény,1897,NA,NA,hu,27035,NA,NA,F,short,low,T3
+HU14664,HU14664,Tolnai Lajos,Életképek,1837,1902,viaf:6903976,Életképek,1867,1867,NA,hu,50764,NA,NA,M,medium,low,T2
+HU14689,HU14689,Vértesi Arnold,Előre : Regény,1836,1911,viaf:121504813,Előre : Regény,1895,1900,NA,hu,30470,NA,NA,M,short,low,T3
+HU14745,HU14745,Beniczkyné Bajza Lenke,Két sziv harcza : Regény két kötetben,1839,1905,20466121,Két sziv harcza : Regény két kötetben,1866,1893,NA,hu,73249,NA,NA,F,medium,low,T2
+HU14769,HU14769,Beniczkyné Bajza Lenke,Itt és a jövő életben : Regény két kötetben,1839,1905,viaf:20466121,Itt és a jövő életben : Regény két kötetben,1878,1903,NA,hu,61512,NA,NA,F,medium,low,T2
+HU16123,HU16123, Malonyay Dezső,Az utolsó: Regény három kötetben,1866,1916,viaf:86172276,Az utolsó: Regény,1896,NA,NA,hu,94912,NA,NA,M,medium,low,T3
+HU16124,HU16124,Bartók Lajos,A szemfényvesztők : Regény,1851,1902,viaf:121399672,A szemfényvesztők : Regény,1896,1896,NA,hu,41351,NA,NA,M,short,low,T3
+HU16127,HU16127,Palotás Fausztin,Salve Regina : Regény,1855,1922,viaf:378155284786787061557,Salve Regina : Regény,1896,NA,NA,hu,27221,NA,NA,M,short,low,T3
+HU16243,HU16243,Beksics Gusztávné,A bukottak : Regény,1849,1903,NA,A bukottak : Regény,1892,1893,NA,hu,29198,NA,NA,F,short,high,T3
+HU16328,HU16328,Tábori Róbert,Görbe hegyek országában : Regény,1855,1906,viaf:73060469,Görbe hegyek országában : Regény,1891,1904,NA,hu,24832,NA,NA,M,short,low,T3
+HU16344,HU16344,Eötvös Károly,A Bakony : ELTeC kiadás,1842,1916,viaf:184888089,A Bakony,1909,1909,NA,hu,123386,NA,NA,M,long,low,T4
+HU16355,HU16355,Kada Elek,A darázs mérge : Regény,1852,1913,viaf:121449348,A darázs mérge : Regény,1893,1893,NA,hu,19404,NA,NA,M,short,low,T3
+HU16359,HU16359,Prém József,Félvér : Regény,1850,1910,viaf:162597297,Félvér : Regény,1893,1893,NA,hu,34914,NA,NA,M,short,high,T3
+HU16361,HU16361,Boross Mihály,Vagy idejében vagy soha : ELTeC kiadás,1815,1899,viaf:121430064,Vagy idejében vagy soha,1856,1856,NA,hu,14135,NA,NA,M,short,low,T1
+HU16529,HU16529,NA,Csillagok a Tiszában : ELTeC kiadás,NA,NA,viaf:5289705,Csillagok a Tiszában,1914,1917,NA,hu,51818,NA,NA,M,medium,low,T4
+HU16600,HU16600,Lovik Károly,Az arany polgár : Regény,1874,1915,viaf:121536328,Az arany polgár : Regény,1908,NA,NA,hu,31026,NA,NA,M,short,low,T4
+HU16672,HU16672,Kovács József,Egy magyar amazon : ELTeC kiadás,1832,1897,viaf:221085154,Egy magyar amazon,1869,1869,NA,hu,22875,NA,NA,M,short,low,T2
+HU16824,HU16824,Ritoók Emma,A nagy véletlen,1868,1945,viaf:121446803,A nagy véletlen,1908,NA,NA,hu,47729,NA,NA,F,short,low,T4
+HU17048,HU17048,Kabos Ede,A jövő fészke,1864,1923,viaf:51003824 ,A jövő fészke,1908,1908,NA,hu,53753,NA,NA,M,medium,low,T4
+HU17435,HU17435,Tormay Cécile,Bujdosó könyv : ELTeC kiadás,1876,1937,viaf:49267950,Bujdosó könyv,1920,1939,NA,hu,160251,NA,NA,F,long,high,T4
+HU17606,HU17606, Teleki Sándorné,"Tabu :  Regény 
+            ",1864,1937,viaf:309595549,Tabu :  Regény ,1919,NA,NA,hu,57333,NA,NA,F,medium,low,T4
+HU17653,HU17653,Czóbel Minka,Két arany hajszál : Regény,1855,1947,viaf:1344243,Két arany hajszál : Regény,1908,1908,NA,hu,36053,NA,NA,F,short,low,T4
+HU17694,HU17694,Lux Terka,Amire születtünk : Regény,1873,1938,viaf:121519574,Amire születtünk : Regény,1906,1906,NA,hu,34961,NA,NA,F,short,low,T4
+HU17873,HU17873, Jósika Júlia,Az élet esélyei: Regény ,1813,1893,46218998,Az élet esélyei: Regény,1864,NA,NA,hu,28349,NA,NA,F,short,low,T2
+HU17910,HU17910,Jósika Júlia,Konrád : ELTeC kiadás,1813,1893,viaf:46218998,Elbeszélések,1872,1872,NA,hu,38707,NA,NA,F,short,low,T2
+HU17960,HU17960,Virághalmi Ferenc,Egy cserepár naplója : ELTeC kiadás,1826,1875,viaf:121507699,Egy cserepár naplója,1866,1866,NA,hu,29457,NA,NA,M,short,low,T2
+HU17999,HU17999,Kánya Emília,Szeretet könyve,1830,1910,30410778,Szeretet könyve,1863,NA,NA,hu,60532,NA,NA,F,medium,low,T2
+HU18153,HU18153,Nagy Ignác,Szúnyogok : ELTeC kiadás,1810,1854,viaf:121393539,Szúnyogok,1848,1852,NA,hu,47550,NA,NA,M,short,low,T1
+HU18411,HU18411,Ábrai Károly,48-tól Világosig : ELTeC kiadás,1830,1912,viaf:164963805,48-tól Világosig,1860,1860,NA,hu,35541,NA,NA,M,short,low,T2
+HU18535,HU18535,Gozsdu Elek,Köd :  Regény ,1863,1924,viaf:52610012,Köd :  Regény ,[1882],NA,NA,hu,45870,NA,NA,M,short,low,T3
+HU18964,HU18964,Jósika Júlia,Családélet : ELTeC kiadás,1813,1893,viaf:46218998,Családélet,1862,1862,NA,hu,56940,NA,NA,F,medium,low,T2
+HU18993,HU18993,Kánya Emília,Válságos napok : ELTeC kiadás,1830,1910,viaf:30410778,Válságos napok,1860,1876,NA,hu,74428,NA,NA,F,medium,low,T2
+HU19000,HU19000,Asbóth János,Álmok álmodója,1845,1911,viaf:31986094,Álmok álmodója,1878,1878,NA,hu,38109,NA,NA,M,short,high,T2
+HU19006,HU19006,Kelmenfy László,Meghasonlott kedély : ELTeC kiadás,1815,1851,viaf:121426252,Meghasonlott kedély,1846,1846,NA,hu,68494,NA,NA,M,medium,low,T1
+HU19018,HU19018,Vachott Sándorné,Margit : ELTeC kiadás,1828,1896,NA,Margit,1857,1857,NA,hu,63890,NA,NA,F,medium,low,T1
+HU19040,HU19040,Nagy Ignác,Torzképek : ELTeC kiadás,1810,1854,viaf:121393539,Torzképek,1844,1844,NA,hu,149986,NA,NA,M,long,low,T1
